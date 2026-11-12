@@ -1,6 +1,6 @@
 <htmL>
     <body>
-
+    <!-- using post -->
     <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
     <label for="username">Enter Username:</label>
     <input type="text" id="username" name="username">
